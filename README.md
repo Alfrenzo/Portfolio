@@ -65,7 +65,7 @@ Whether it's a laid-back tycoon, a fast-paced adventure, or something totally ou
 
 Got a collab idea, want to chat, or just wanna say hey?
 
-> 💬 **Discord:** `your.discord.username`
+> 💬 **Discord:** `alfrenzo1`
 
 ---
 
