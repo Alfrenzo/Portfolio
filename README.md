@@ -19,14 +19,14 @@ Whether it's a laid-back tycoon, a fast-paced adventure, or something totally ou
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/yourusername/project-one">
+      <a href="https://github.com/Alfrenzo/FishPondTycoon">
         <img src="FishPondTycoon2.png" alt="Project One" width="100%"/>
         <br/>
         <h3>🐟 Fish Pond Tycoon</h3>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/yourusername/project-two">
+      <a href="https://github.com/Alfrenzo/DopamineRetox">
         <img src="DopamineRetox.png" alt="Project Two" width="100%"/>
         <br/>
         <h3>🧠 Dopamine Retox</h3>
@@ -35,14 +35,14 @@ Whether it's a laid-back tycoon, a fast-paced adventure, or something totally ou
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/yourusername/project-three">
+      <a href="https://github.com/Alfrenzo/TerrainGenerator">
         <img src="TerrainGenerator.png" alt="Project Three" width="100%"/>
         <br/>
         <h3>🌳 Terrain Generator</h3>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/yourusername/project-four">
+      <a href="https://github.com/Alfrenzo/StealABrainrot">
         <img src="StealABrainrot.png" alt="Project Four" width="100%"/>
         <br/>
         <h3>😵 Steal A Brainrot (Template)</h3>
